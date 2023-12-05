@@ -85,4 +85,4 @@ Here are some references of lecture notes and reviews drawn by some communities,
 
 Deep Learning Specialization offered by Andrew Ng is an excellent blend of content for deep learning enthusiasts. I thoroughly enjoyed the course and earned the [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5K48N32J3UU7).
   
-![](images/certificate.png)
+![]()
